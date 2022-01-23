@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <main>
       tiktok clone
-
+      
       </main>
    
     </div>
