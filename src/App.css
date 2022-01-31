@@ -9,10 +9,10 @@
 
 main {
 
-  border:1px solid #fff;
   aspect-ratio: 9/16;
   max-width: 375px;
   border-radius: 3px;
+  overflow-y:scroll;
   width: 100vw;
 
 }
